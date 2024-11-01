@@ -1,0 +1,2 @@
+BACKUP_SRC="/tmp"
+BACKUP_DST="/home/razaq-haidari/backups"
